@@ -2,8 +2,8 @@
 
 Use [bopscrk](https://github.com/patricnilackshan/bopscrk) to create a word list.
 
-See Single-Thread if you wanna Brute Force with a single wordlist.
+See [Single-Thread](https://github.com/patricnilackshan/UoM_Moodle_Brute_Forcer/tree/main/UoM_Brute_Force_SingleThread) if you wanna Brute Force with a single wordlist.
 
-See Multi-Thread if you wanna Brute Force with multiple wordlists at the same time.
+See [Multi-Thread](https://github.com/patricnilackshan/UoM_Moodle_Brute_Forcer/tree/main/UoM_Brute_Force_MultiThread) if you wanna Brute Force with multiple wordlists at the same time.
 
-Use Text_File_Splitter.py to chunk a long wordlist into multiple parts as to support multi-thread brute force.
+Use [Text_File_Splitter](https://github.com/patricnilackshan/UoM_Moodle_Brute_Forcer/tree/main/Text_File_Splitter) to chunk a long wordlist into multiple parts as to support multi-thread brute force.
