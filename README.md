@@ -1,6 +1,6 @@
 # UoM_Moodle_Brute_Forcer
 
-Use [bopscrk](https://github.com/patricnilackshan/bopscrk) to create word list.
+Use [bopscrk](https://github.com/patricnilackshan/bopscrk) to create a word list.
 
 See Single-Thread if you wanna Brute Force with a single wordlist.
 
